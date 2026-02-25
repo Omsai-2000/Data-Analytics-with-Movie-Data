@@ -5,4 +5,4 @@ This data set contains information about 10,000 movies collected from The Movie 
 
 # Libraries :
 
-All the codes are written on Jupyternotebook. The python libraries include numpy, pandas, matplotlib and seaborn. Please make sure you have all these libraries installed.
+All the codes are written on Jupyternotebook. The python libraries include numpy, pandas, matplotlib and seaborn.
